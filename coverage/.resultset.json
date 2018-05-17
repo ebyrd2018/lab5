@@ -290,11 +290,23 @@
         1,
         1,
         1,
-        null
-      ],
-      "/Users/evanbyrd/Documents/S18/67272/Labs/Lab5/ChoreTracker/app/models/application_record.rb": [
+        null,
         1,
+        null,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
         1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
         null
       ],
       "/Users/evanbyrd/Documents/S18/67272/Labs/Lab5/ChoreTracker/app/models/task.rb": [
@@ -305,8 +317,13 @@
         1,
         1,
         null,
-        3,
-        2,
+        1,
+        1,
+        null
+      ],
+      "/Users/evanbyrd/Documents/S18/67272/Labs/Lab5/ChoreTracker/app/models/application_record.rb": [
+        1,
+        1,
         null
       ],
       "/Users/evanbyrd/Documents/S18/67272/Labs/Lab5/ChoreTracker/app/models/child.rb": [
@@ -577,6 +594,6 @@
         0
       ]
     },
-    "timestamp": 1526588540
+    "timestamp": 1526589235
   }
 }
